@@ -1,0 +1,13 @@
+Begin Object Class=/Script/Engine.PhysicsAsset Name="SK_Shield_PhysicsAsset" ExportPath="/Script/Engine.PhysicsAsset'/Game/Weapon_Pack/Skeletal_Mesh/SK_Shield_PhysicsAsset.SK_Shield_PhysicsAsset'"
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_0" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Weapon_Pack/Skeletal_Mesh/SK_Shield_PhysicsAsset.SK_Shield_PhysicsAsset:SkeletalBodySetup_0'"
+   End Object
+   Begin Object Name="SkeletalBodySetup_0" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Weapon_Pack/Skeletal_Mesh/SK_Shield_PhysicsAsset.SK_Shield_PhysicsAsset:SkeletalBodySetup_0'"
+      AggGeom=(SphylElems=((Center=(X=-0.000001,Y=-2.958412,Z=15.123521),Rotation=(Pitch=-1.012583,Yaw=-89.999997,Roll=1.230078),Radius=35.872185,Length=35.866566)))
+      BoneName="rootGrip"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   PreviewSkeletalMesh="/Game/Weapon_Pack/Skeletal_Mesh/SK_Shield.SK_Shield"
+   BoundsBodies(0)=0
+   SkeletalBodySetups(0)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_0'"
+   SolverSettings=(CullDistance=1.000000,bUseLinearJointSolver=False)
+End Object
