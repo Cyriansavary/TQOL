@@ -1,0 +1,9 @@
+Begin Object Class=/Script/Engine.Skeleton Name="SK_Shield_Skeleton" ExportPath="/Script/Engine.Skeleton'/Game/Weapon_Pack/Skeletal_Mesh/SK_Shield_Skeleton.SK_Shield_Skeleton'"
+   Begin Object Class=/Script/Engine.AnimCurveMetaData Name="AnimCurveMetaData_0" ExportPath="/Script/Engine.AnimCurveMetaData'/Game/Weapon_Pack/Skeletal_Mesh/SK_Shield_Skeleton.SK_Shield_Skeleton:AnimCurveMetaData_0'"
+   End Object
+   Begin Object Name="AnimCurveMetaData_0" ExportPath="/Script/Engine.AnimCurveMetaData'/Game/Weapon_Pack/Skeletal_Mesh/SK_Shield_Skeleton.SK_Shield_Skeleton:AnimCurveMetaData_0'"
+   End Object
+   BoneTree(0)=()
+   PreviewSkeletalMesh="/Game/Weapon_Pack/Skeletal_Mesh/SK_Shield.SK_Shield"
+   AssetUserData(0)="/Script/Engine.AnimCurveMetaData'AnimCurveMetaData_0'"
+End Object
