@@ -26,14 +26,11 @@
 			"Name": "PhysicalLayout",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/349bf2d4b1a945fa8f31db80fabf8058"
-<<<<<<< HEAD
-=======
 		},
 		{
 			"Name": "EOSIntegrationKit",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/dba0aa05bdd144e69405653a387ad63e"
->>>>>>> parent of ad782e8 (Revert "Merge branch 'main' into Vincent-Shaders")
 		}
 	],
 	"TargetPlatforms": [
