@@ -3,13 +3,6 @@
 	"EngineAssociation": "5.3",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "MultiPlayerMobile",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
@@ -21,11 +14,6 @@
 		{
 			"Name": "CascadeToNiagaraConverter",
 			"Enabled": true
-		},
-		{
-			"Name": "PhysicalLayout",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/349bf2d4b1a945fa8f31db80fabf8058"
 		},
 		{
 			"Name": "EOSIntegrationKit",
